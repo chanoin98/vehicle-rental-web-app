@@ -6,3 +6,4 @@
 #### Add paypal sandbox account API signature after client-id= and before -funding=credit. (inside AllDrive/Userinfo.php)
 #### Add SMTP username and password inside both Admin/mail.php & AllDrive/mail.php.
 #### Execute the index.php file in AllDrive folder.
+
